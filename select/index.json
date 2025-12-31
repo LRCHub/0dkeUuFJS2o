@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "LADY BUG",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2025-12-31T08:55:20.926461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/01_Lady_Bug_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/02_Lady_Bug_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lady Bug (Japanese B-Side)",
+      "artist": "Breaking Benjamin",
+      "has_synced": false,
+      "path": "select/03_Lady_Bug_(Japanese_B-Side)_Breaking_Benjamin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/04_Lady_Bug_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lady Bug (Bonus Track)",
+      "artist": "Breaking Benjamin",
+      "has_synced": false,
+      "path": "select/05_Lady_Bug_(Bonus_Track)_Breaking_Benjamin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "13 - Lady Bug [Bonus]",
+      "artist": "Breaking Benjamin",
+      "has_synced": false,
+      "path": "select/06_13_-_Lady_Bug_[Bonus]_Breaking_Benjamin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spreadin' Rhythm Around - Lady Bug vs. Lady Day RR Remix",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/07_Spreadin'_Rhythm_Around_-_Lady_Bug_vs._Lady_Day_RR_Remix_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lady Bug (We Are Not Alone Japanese B-side)",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/08_Lady_Bug_(We_Are_Not_Alone_Japanese_B-side)_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lady Bug (“We Are Not Alone” Japanese B‐Side)",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/09_Lady_Bug_(“We_Are_Not_Alone”_Japanese_B‐Side)_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Bumblebee Unlimited",
+      "has_synced": false,
+      "path": "select/10_Lady_Bug_Bumblebee_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Cody Jinks",
+      "has_synced": false,
+      "path": "select/11_Lady_Bug_Cody_Jinks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lady Bug",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/12_Lady_Bug_Anne_Murray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LADY BUG",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_LADY_BUG_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
